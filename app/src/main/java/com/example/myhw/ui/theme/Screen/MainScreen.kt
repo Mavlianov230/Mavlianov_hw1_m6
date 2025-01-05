@@ -37,7 +37,7 @@ fun MainScreen(context: Context) {
                 modifier = Modifier
                     .width(128.dp)
                     .height(128.dp),
-                painter = painterResource(id = R.drawable.png),
+                painter = painterResource(id = R.drawable.notes),
                 contentDescription = ""
             )
         }
